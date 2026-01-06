@@ -1,0 +1,7 @@
+// ไฟล์: src/products/entities/product.entity.ts
+export class Product {
+    id: number;
+    name: string;
+    price: number;
+    description: string;
+}
